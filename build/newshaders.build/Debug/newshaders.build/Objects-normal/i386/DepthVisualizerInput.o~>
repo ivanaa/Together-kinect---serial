@@ -1,0 +1,3 @@
+/Users/ivanabasic/Documents/C++/of_preRelease_v0062_osxSL_FAT 2/SOLID Folder/solid folder/SOLID 1/src/input/DepthVisualizerInput.cpp: In member function 'void DepthVisualizerInput::setup(ofxControlPanel&)':
+/Users/ivanabasic/Documents/C++/of_preRelease_v0062_osxSL_FAT 2/SOLID Folder/solid folder/SOLID 1/src/input/DepthVisualizerInput.cpp:69: error: 'bSendSerialMessage' was not declared in this scope
+/Users/ivanabasic/Documents/C++/of_preRelease_v0062_osxSL_FAT 2/SOLID Folder/solid folder/SOLID 1/src/input/DepthVisualizerInput.cpp:70: error: 'serial' was not declared in this scope
